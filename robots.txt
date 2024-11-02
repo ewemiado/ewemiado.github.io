@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewemiado.github.io/LlP/sitemap_index.txt
+Sitemap: https://ewemiado.github.io/RZb/sitemap_index.txt
+Sitemap: https://ewemiado.github.io/bUP/sitemap_index.txt
+Sitemap: https://ewemiado.github.io/thV/sitemap_index.txt
